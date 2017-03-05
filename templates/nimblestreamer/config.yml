@@ -1,0 +1,6 @@
+---
+name: Cars Prediction
+description: |
+    Web interface for cars prediction engine
+version: "2.1"
+category: C11H Cars
